@@ -1,5 +1,5 @@
 {
-  "name": "user-mgt-sys-app",
+  "name": "ng-test-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:UserMgtSysApp": "node dist/user-mgt-sys-app/server/server.mjs"
+    "serve:ssr:NgTestApp": "node dist/ng-test-app/server/server.mjs"
   },
   "private": true,
   "dependencies": {
